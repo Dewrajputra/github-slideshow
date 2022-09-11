@@ -1,0 +1,3 @@
+Azure PAAS components like Azure databricks, Azure Data factory, ADLS, Functions ,Synapse, Logic App, Log analytics etc
+Data & Analytics project
+PowerShell scripting
